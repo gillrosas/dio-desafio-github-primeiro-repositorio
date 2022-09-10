@@ -1,3 +1,6 @@
-Link para dowloading do git 
+#Link para dowloading do git 
 o git é um terminal extendido para otimizar o uso do git 
+para criar um repositório utilizar o git init
+git add * - adicionar o arquivo que foi criado para ser commitado
+comitar siginifica dar envolver: colocar um autor, shah
  
